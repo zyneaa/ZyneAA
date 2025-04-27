@@ -9,13 +9,13 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/ZyneAA/ZyneAA/output/snake.svg" alt="Snake animation" />
-
-###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
