@@ -9,15 +9,7 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="300" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
-
-###
-
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/N7u98XBonXUAAAAC/osaka-de-mati.gif"  />
-</div>
 
 ###
 
