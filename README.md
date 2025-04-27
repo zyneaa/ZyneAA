@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center" flex="row">
+<div align="center" flex="column">
   <div>
     <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZyneAA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&custom_title=Silly%20Languages" height="300" alt="languages graph"  />
