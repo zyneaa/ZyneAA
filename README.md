@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
+<img align="center" height="350" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
 
 ###
 
