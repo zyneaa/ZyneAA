@@ -4,11 +4,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZyneAA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&custom_title=Silly%20Languages" height="300" alt="languages graph"  />
+  <img height="350" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
 </div>
-
-###
-
-<img align="center" height="350" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
 
 <br clear="both">
 
