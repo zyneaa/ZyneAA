@@ -1,4 +1,3 @@
-<div style="background-color: red; padding: 20px; border-radius: 10px;">
 <h2 align="left">A silly programmer who makes silly programs and i dont have a fav language or a fav text editor (Rust and nvim are the best btw and i wont elaborate further)</h2>
 
 ###
@@ -51,5 +50,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
 </div>
