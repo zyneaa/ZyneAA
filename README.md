@@ -2,16 +2,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZyneAA&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Silly%20Tracker" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZyneAA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" flex="row">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZyneAA&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Silly%20Tracker" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZyneAA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  </div>
+  <div>
+    <img align="center" height="350" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
+  </div>
 </div>
-
-###
-
-<img align="center" height="350" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
-
-###
 
 <br clear="both">
 
