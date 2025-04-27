@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
+<img align="center" height="300" src="https://media.tenor.com/ouQzDmgC9CwAAAAi/miku-vocaloid.gif"  />
 
 ###
 
