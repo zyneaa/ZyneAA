@@ -1,4 +1,4 @@
-<h2 align="left">A silly programmer who makes silly programs and i dont have a fav language or a fav text editor (Rust and nvim are the best btw and i wont elaborate further)</h2>
+<h2 align="left">A silly programmer who makes silly programs and i dont have a fav language or a fav text editor (I use nvim btw)</h2>
 
 ###
 
